@@ -2,7 +2,7 @@
 - 👀 I’m interested in upgrading legacey macs
 - 🌱 I’m currently learning OpenCore
 - 💞️ I’m looking to collaborate on OpenCore install problems
-- 📫 How to reach me samhoss48@gmail.com
+- 📫 How to reach me sam.hastings@mac.com
 
 <!---
 SamHoss48/SamHoss48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
